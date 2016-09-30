@@ -67,7 +67,4 @@ public class SeguridadSocial_TreeMap {
 
         return new ArrayList<>(personaMapDni.values());
     }
-
-
 }
-
