@@ -28,7 +28,6 @@ public class SeguridadSocial_HashMap {
 
         //personaMapDni.keySet(); //coger todas las keys
         // personaMapDni.values(); //coger todos los values
-
         return personaMapDni.get(dni);
     }
 
